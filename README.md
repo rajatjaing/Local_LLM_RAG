@@ -1,6 +1,6 @@
 ## Pre-Requisites 
 - Before creating image, we need to create a folder llm_model and embedding_model.
-- In llm_model folder put the model file like .gguf, pythorch.bin, tensorflow.bin, .ggml, .gptq etc. for example --> downlaod codellama-7b.Q3_K_M.gguf from TheBloke/CodeLlama-7B-GGUF
+- In llm_model folder put the model file like .gguf, pythorch.bin, tensorflow.bin, .ggml, .gptq etc. for example --> downlaod codellama-7b.Q3_K_M.gguf from TheBloke/CodeLlama-7B-GGUF --> https://huggingface.co/TheBloke/CodeLlama-7B-GGUF/resolve/main/codellama-7b.Q3_K_M.gguf?download=true
 - In embedding_model folder, put the embedding model file. for example --> git clone https://huggingface.co/sentence-transformers/all-mpnet-base-v2
 
 ## Technical Details 🛠️
